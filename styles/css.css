@@ -1,0 +1,50 @@
+.row{
+	width: 100%;
+}
+.right-header{
+	background-color: #9197c7;
+}
+.left-header{
+	background-color: #9de6d3;
+}
+.button-search{
+	padding-right: 0;
+	padding-left: 0;
+	border-radius: 0;
+	border: 0;
+}
+
+.button-search:link {
+	outline-style: none;
+}
+.about-me a{
+	color: #9197c7;
+	text-decoration:none;
+	position: absolute;
+	text-transform: uppercase;
+}
+.profile a{
+	color: #9de6d3;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.fiend-button{
+	border-radius: 0;
+	background-color: #faf9f7
+}
+.search-friends{
+	display: inline-block;
+	text-transform: uppercase;
+	font-weight: bold;
+    font-size: 14px;
+}
+.MyWish img{
+	width: 100%;
+	max-width: 250px;
+}
+.demo-icon{
+	color: #b8b8b7;
+}
+.search-friends{
+	color: #b8b8b7;
+}
