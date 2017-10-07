@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.footer {
+	background-color:  #5d5958;
+	height: 50px;
+	width: 100%;
+}
+.footer ul li a{
+	text-decoration: none;
+	color: white;
+}
+.footer ul li{
+	text-decoration: none;
+	list-style: none;
+	display: inline;
+	padding: 15px;
+	padding-bottom: 10px;
+}
